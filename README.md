@@ -1,5 +1,7 @@
 # Education Website – HTML, CSS, JS
 
+🔗 **Live Demo:** [https://myasirweb.github.io/education-website/](https://myasirweb.github.io/education-website/)
+
 This repository contains the source code for a responsive **Education Website**, designed using pure **HTML**, **CSS**, and **JavaScript**. The layout is ideal for educational institutions, schools, universities, or online learning platforms.
 
 ---
@@ -24,4 +26,3 @@ This repository contains the source code for a responsive **Education Website**,
 ---
 
 ## 📁 Folder Structure (Typical)
-
